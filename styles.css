@@ -59,7 +59,7 @@
         top:3%;
         left:5%;
         color:white;
-        margin-bottom:2%;
+        
     }
 
     .current-forecast{
@@ -73,7 +73,7 @@
         align-items: center;
         justify-content:center;
         text-align:center;
-        
+        margin-top:10%;
     }
 
     .icon img{
