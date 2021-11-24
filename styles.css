@@ -9,6 +9,7 @@
     height:100vh;
     background:linear-gradient(rgba(31, 7, 7, 0.7), rgba(0, 0, 0, 0.7)),
     url(images/bg.png) center no-repeat;
+    background-position:left bottom;  
     background:cover;
     display:flex;
     align-items: center;
@@ -58,6 +59,7 @@
         height:100vh;
         background:linear-gradient(rgba(31, 7, 7, 0.7), rgba(0, 0, 0, 0.7)),
         url(images/bg.png) center no-repeat;
+        background-position:left bottom;  
         background:cover;
         display:flex;
         align-items: center;
