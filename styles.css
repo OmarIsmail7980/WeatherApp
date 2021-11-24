@@ -54,6 +54,14 @@
 }
 
 @media (max-width:1528px){
+    .time{
+        position:absolute;
+        top:3%;
+        left:5%;
+        color:white;
+        margin-bottom:2%;
+    }
+
     .current-forecast{
         width:100%;
         height:100vh;
