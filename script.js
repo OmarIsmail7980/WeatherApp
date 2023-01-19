@@ -25,7 +25,7 @@ setInterval(()=>{
 
     time.textContent = tweleveHrFormat+":"+minutes+" "+amPm;
     today.textContent = dayOfWeek+", "+month+" "+day;
-},1000)
+},1)
 
 //weather forecast
 getForecast();
